@@ -1,0 +1,216 @@
+0 verbose cli /home/ogyy/.nvm/versions/node/v25.6.1/bin/node /home/ogyy/.nvm/versions/node/v25.6.1/bin/npm
+1 info using npm@11.9.0
+2 info using node@v25.6.1
+3 silly config load:file:/home/ogyy/.nvm/versions/node/v25.6.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ogyy/smart-olt/.npmrc
+5 silly config load:file:/home/ogyy/.npmrc
+6 silly config load:file:/home/ogyy/.nvm/versions/node/v25.6.1/etc/npmrc
+7 verbose title npm install @testing-library/dom@^10.4.0 @testing-library/jest-dom@^6.6.3 @testing-library/react@^16.1.0 @testing-library/user-event@^13.2.1 web-vitals@^2.1.0
+8 verbose argv "install" "--no-audit" "--save" "@testing-library/dom@^10.4.0" "@testing-library/jest-dom@^6.6.3" "@testing-library/react@^16.1.0" "@testing-library/user-event@^13.2.1" "web-vitals@^2.1.0"
+9 verbose logfile logs-max:10 dir:/home/ogyy/.npm/_logs/2026-02-11T07_32_51_652Z-
+10 verbose logfile /home/ogyy/.npm/_logs/2026-02-11T07_32_51_652Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2229534720 maxSize:557383680 maxEntrySize:278691840
+14 silly idealTree buildDeps
+15 silly fetch manifest @testing-library/dom@^10.4.0
+16 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fdom cache-miss
+17 http fetch GET 200 https://registry.npmjs.org/@testing-library%2fdom 866ms (cache miss)
+18 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fdom set size:undefined disposed:false
+19 silly fetch manifest @testing-library/jest-dom@^6.6.3
+20 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fjest-dom cache-miss
+21 http fetch GET 200 https://registry.npmjs.org/@testing-library%2fjest-dom 55ms (cache miss)
+22 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fjest-dom set size:undefined disposed:false
+23 silly fetch manifest @testing-library/react@^16.1.0
+24 silly packumentCache full:https://registry.npmjs.org/@testing-library%2freact cache-miss
+25 http fetch GET 200 https://registry.npmjs.org/@testing-library%2freact 365ms (cache miss)
+26 silly packumentCache full:https://registry.npmjs.org/@testing-library%2freact set size:undefined disposed:false
+27 silly fetch manifest @types/react@^18.0.0 || ^19.0.0
+28 silly packumentCache full:https://registry.npmjs.org/@types%2freact cache-miss
+29 http fetch GET 200 https://registry.npmjs.org/@types%2freact 82ms (cache revalidated)
+30 silly packumentCache full:https://registry.npmjs.org/@types%2freact set size:2584421 disposed:false
+31 silly fetch manifest @types/react-dom@^18.0.0 || ^19.0.0
+32 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom cache-miss
+33 http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 91ms (cache revalidated)
+34 silly packumentCache full:https://registry.npmjs.org/@types%2freact-dom set size:429026 disposed:false
+35 silly fetch manifest react@^19.2.4
+36 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+37 http cache https://registry.npmjs.org/react 38ms (cache hit)
+38 silly packumentCache full:https://registry.npmjs.org/react set size:6476419 disposed:false
+39 silly fetch manifest react-dom@^19.2.4
+40 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+41 http cache https://registry.npmjs.org/react-dom 42ms (cache hit)
+42 silly packumentCache full:https://registry.npmjs.org/react-dom set size:8570208 disposed:false
+43 silly fetch manifest @testing-library/user-event@^13.2.1
+44 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fuser-event cache-miss
+45 http fetch GET 200 https://registry.npmjs.org/@testing-library%2fuser-event 962ms (cache miss)
+46 silly packumentCache full:https://registry.npmjs.org/@testing-library%2fuser-event set size:undefined disposed:false
+47 silly fetch manifest web-vitals@^2.1.0
+48 silly packumentCache full:https://registry.npmjs.org/web-vitals cache-miss
+49 http fetch GET 200 https://registry.npmjs.org/web-vitals 41ms (cache miss)
+50 silly packumentCache full:https://registry.npmjs.org/web-vitals set size:undefined disposed:false
+51 silly placeDep ROOT @testing-library/dom@10.4.1 OK for: smart-olt@0.1.0 want: ^10.4.0
+52 silly placeDep ROOT @testing-library/jest-dom@6.9.1 OK for: smart-olt@0.1.0 want: ^6.6.3
+53 silly placeDep ROOT @testing-library/react@16.3.2 OK for: smart-olt@0.1.0 want: ^16.1.0
+54 silly placeDep ROOT @testing-library/user-event@13.5.0 OK for: smart-olt@0.1.0 want: ^13.2.1
+55 silly placeDep ROOT web-vitals@2.1.4 OK for: smart-olt@0.1.0 want: ^2.1.0
+56 silly fetch manifest lz-string@^1.5.0
+57 silly packumentCache full:https://registry.npmjs.org/lz-string cache-miss
+58 http fetch GET 200 https://registry.npmjs.org/lz-string 40ms (cache miss)
+59 silly packumentCache full:https://registry.npmjs.org/lz-string set size:undefined disposed:false
+60 silly fetch manifest aria-query@5.3.0
+61 silly packumentCache full:https://registry.npmjs.org/aria-query cache-miss
+62 http cache https://registry.npmjs.org/aria-query 8ms (cache hit)
+63 silly packumentCache full:https://registry.npmjs.org/aria-query set size:98864 disposed:false
+64 silly fetch manifest @types/aria-query@^5.0.1
+65 silly packumentCache full:https://registry.npmjs.org/@types%2faria-query cache-miss
+66 http fetch GET 200 https://registry.npmjs.org/@types%2faria-query 1501ms (cache miss)
+67 silly packumentCache full:https://registry.npmjs.org/@types%2faria-query set size:undefined disposed:false
+68 silly fetch manifest dom-accessibility-api@^0.5.9
+69 silly packumentCache full:https://registry.npmjs.org/dom-accessibility-api cache-miss
+70 http fetch GET 200 https://registry.npmjs.org/dom-accessibility-api 288ms (cache miss)
+71 silly packumentCache full:https://registry.npmjs.org/dom-accessibility-api set size:undefined disposed:false
+72 silly fetch manifest redent@^3.0.0
+73 silly packumentCache full:https://registry.npmjs.org/redent cache-miss
+74 http fetch GET 200 https://registry.npmjs.org/redent 44ms (cache miss)
+75 silly packumentCache full:https://registry.npmjs.org/redent set size:undefined disposed:false
+76 silly fetch manifest css.escape@^1.5.1
+77 silly packumentCache full:https://registry.npmjs.org/css.escape cache-miss
+78 http fetch GET 200 https://registry.npmjs.org/css.escape 33ms (cache miss)
+79 silly packumentCache full:https://registry.npmjs.org/css.escape set size:undefined disposed:false
+80 silly fetch manifest @adobe/css-tools@^4.4.0
+81 silly packumentCache full:https://registry.npmjs.org/@adobe%2fcss-tools cache-miss
+82 http fetch GET 200 https://registry.npmjs.org/@adobe%2fcss-tools 620ms (cache miss)
+83 silly packumentCache full:https://registry.npmjs.org/@adobe%2fcss-tools set size:undefined disposed:false
+84 silly fetch manifest dom-accessibility-api@^0.6.3
+85 silly packumentCache full:https://registry.npmjs.org/dom-accessibility-api cache-miss
+86 http cache https://registry.npmjs.org/dom-accessibility-api 9ms (cache hit)
+87 silly packumentCache full:https://registry.npmjs.org/dom-accessibility-api set size:175425 disposed:false
+88 silly placeDep ROOT @types/aria-query@5.0.4 OK for: @testing-library/dom@10.4.1 want: ^5.0.1
+89 silly placeDep node_modules/@testing-library/dom aria-query@5.3.0 OK for: @testing-library/dom@10.4.1 want: 5.3.0
+90 silly placeDep ROOT dom-accessibility-api@0.5.16 OK for: @testing-library/dom@10.4.1 want: ^0.5.9
+91 silly placeDep ROOT lz-string@1.5.0 OK for: @testing-library/dom@10.4.1 want: ^1.5.0
+92 silly fetch manifest dequal@^2.0.3
+93 silly packumentCache full:https://registry.npmjs.org/dequal cache-miss
+94 http fetch GET 200 https://registry.npmjs.org/dequal 30ms (cache miss)
+95 silly packumentCache full:https://registry.npmjs.org/dequal set size:undefined disposed:false
+96 silly placeDep ROOT @adobe/css-tools@4.4.4 OK for: @testing-library/jest-dom@6.9.1 want: ^4.4.0
+97 silly placeDep ROOT css.escape@1.5.1 OK for: @testing-library/jest-dom@6.9.1 want: ^1.5.1
+98 silly placeDep node_modules/@testing-library/jest-dom dom-accessibility-api@0.6.3 OK for: @testing-library/jest-dom@6.9.1 want: ^0.6.3
+99 silly placeDep ROOT redent@3.0.0 OK for: @testing-library/jest-dom@6.9.1 want: ^3.0.0
+100 silly fetch manifest indent-string@^4.0.0
+101 silly packumentCache full:https://registry.npmjs.org/indent-string cache-miss
+102 http fetch GET 200 https://registry.npmjs.org/indent-string 29ms (cache miss)
+103 silly packumentCache full:https://registry.npmjs.org/indent-string set size:undefined disposed:false
+104 silly fetch manifest strip-indent@^3.0.0
+105 silly packumentCache full:https://registry.npmjs.org/strip-indent cache-miss
+106 http fetch GET 200 https://registry.npmjs.org/strip-indent 29ms (cache miss)
+107 silly packumentCache full:https://registry.npmjs.org/strip-indent set size:undefined disposed:false
+108 silly fetch manifest typescript@^3.2.1 || ^4
+109 silly packumentCache full:https://registry.npmjs.org/typescript cache-miss
+110 http cache https://registry.npmjs.org/typescript 49ms (cache hit)
+111 silly packumentCache full:https://registry.npmjs.org/typescript set size:15231109 disposed:false
+112 silly placeDep ROOT typescript@4.9.5 REPLACE for: react-scripts@5.0.1 want: ^3.2.1 || ^4
+113 silly placeDep ROOT indent-string@4.0.0 OK for: redent@3.0.0 want: ^4.0.0
+114 silly placeDep ROOT strip-indent@3.0.0 OK for: redent@3.0.0 want: ^3.0.0
+115 silly fetch manifest min-indent@^1.0.0
+116 silly packumentCache full:https://registry.npmjs.org/min-indent cache-miss
+117 http fetch GET 200 https://registry.npmjs.org/min-indent 32ms (cache miss)
+118 silly packumentCache full:https://registry.npmjs.org/min-indent set size:undefined disposed:false
+119 silly placeDep ROOT min-indent@1.0.1 OK for: strip-indent@3.0.0 want: ^1.0.0
+120 silly placeDep ROOT dequal@2.0.3 OK for: aria-query@5.3.0 want: ^2.0.3
+121 silly reify mark retired [
+121 silly reify   '/home/ogyy/smart-olt/node_modules/tailwindcss/node_modules/yaml',
+121 silly reify   '/home/ogyy/smart-olt/node_modules/tailwindcss/node_modules/.bin/yaml'
+121 silly reify ]
+122 silly reify mark retired [
+122 silly reify   '/home/ogyy/smart-olt/node_modules/typescript',
+122 silly reify   '/home/ogyy/smart-olt/node_modules/.bin/tsc',
+122 silly reify   '/home/ogyy/smart-olt/node_modules/.bin/tsserver'
+122 silly reify ]
+123 silly reify moves {
+123 silly reify   '/home/ogyy/smart-olt/node_modules/tailwindcss/node_modules/yaml': '/home/ogyy/smart-olt/node_modules/tailwindcss/node_modules/.yaml-vsOmaFbQ',
+123 silly reify   '/home/ogyy/smart-olt/node_modules/tailwindcss/node_modules/.bin/yaml': '/home/ogyy/smart-olt/node_modules/tailwindcss/node_modules/.bin/.yaml-CGI1XIB0',
+123 silly reify   '/home/ogyy/smart-olt/node_modules/typescript': '/home/ogyy/smart-olt/node_modules/.typescript-Tg4Csq95',
+123 silly reify   '/home/ogyy/smart-olt/node_modules/.bin/tsc': '/home/ogyy/smart-olt/node_modules/.bin/.tsc-ELW04Hmr',
+123 silly reify   '/home/ogyy/smart-olt/node_modules/.bin/tsserver': '/home/ogyy/smart-olt/node_modules/.bin/.tsserver-s741t65L'
+123 silly reify }
+124 http cache min-indent@https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz 0ms (cache hit)
+125 http cache dequal@https://registry.npmjs.org/dequal/-/dequal-2.0.3.tgz 0ms (cache hit)
+126 http cache strip-indent@https://registry.npmjs.org/strip-indent/-/strip-indent-3.0.0.tgz 0ms (cache hit)
+127 http cache indent-string@https://registry.npmjs.org/indent-string/-/indent-string-4.0.0.tgz 0ms (cache hit)
+128 http cache redent@https://registry.npmjs.org/redent/-/redent-3.0.0.tgz 0ms (cache hit)
+129 http cache css.escape@https://registry.npmjs.org/css.escape/-/css.escape-1.5.1.tgz 0ms (cache hit)
+130 http cache @adobe/css-tools@https://registry.npmjs.org/@adobe/css-tools/-/css-tools-4.4.4.tgz 0ms (cache hit)
+131 http cache lz-string@https://registry.npmjs.org/lz-string/-/lz-string-1.5.0.tgz 0ms (cache hit)
+132 http cache dom-accessibility-api@https://registry.npmjs.org/dom-accessibility-api/-/dom-accessibility-api-0.5.16.tgz 0ms (cache hit)
+133 http cache @types/aria-query@https://registry.npmjs.org/@types/aria-query/-/aria-query-5.0.4.tgz 0ms (cache hit)
+134 http cache web-vitals@https://registry.npmjs.org/web-vitals/-/web-vitals-2.1.4.tgz 0ms (cache hit)
+135 http cache @testing-library/user-event@https://registry.npmjs.org/@testing-library/user-event/-/user-event-13.5.0.tgz 0ms (cache hit)
+136 http cache @testing-library/react@https://registry.npmjs.org/@testing-library/react/-/react-16.3.2.tgz 0ms (cache hit)
+137 http cache @testing-library/jest-dom@https://registry.npmjs.org/@testing-library/jest-dom/-/jest-dom-6.9.1.tgz 0ms (cache hit)
+138 http cache @testing-library/dom@https://registry.npmjs.org/@testing-library/dom/-/dom-10.4.1.tgz 0ms (cache hit)
+139 http cache typescript@https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz 0ms (cache hit)
+140 http cache dom-accessibility-api@https://registry.npmjs.org/dom-accessibility-api/-/dom-accessibility-api-0.6.3.tgz 1ms (cache hit)
+141 http cache aria-query@https://registry.npmjs.org/aria-query/-/aria-query-5.3.0.tgz 0ms (cache hit)
+142 silly tarball no local data for min-indent@https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz. Extracting by manifest.
+143 silly tarball no local data for dequal@https://registry.npmjs.org/dequal/-/dequal-2.0.3.tgz. Extracting by manifest.
+144 silly tarball no local data for strip-indent@https://registry.npmjs.org/strip-indent/-/strip-indent-3.0.0.tgz. Extracting by manifest.
+145 silly tarball no local data for indent-string@https://registry.npmjs.org/indent-string/-/indent-string-4.0.0.tgz. Extracting by manifest.
+146 silly tarball no local data for redent@https://registry.npmjs.org/redent/-/redent-3.0.0.tgz. Extracting by manifest.
+147 silly tarball no local data for css.escape@https://registry.npmjs.org/css.escape/-/css.escape-1.5.1.tgz. Extracting by manifest.
+148 silly tarball no local data for @adobe/css-tools@https://registry.npmjs.org/@adobe/css-tools/-/css-tools-4.4.4.tgz. Extracting by manifest.
+149 silly tarball no local data for lz-string@https://registry.npmjs.org/lz-string/-/lz-string-1.5.0.tgz. Extracting by manifest.
+150 silly tarball no local data for dom-accessibility-api@https://registry.npmjs.org/dom-accessibility-api/-/dom-accessibility-api-0.5.16.tgz. Extracting by manifest.
+151 silly tarball no local data for @types/aria-query@https://registry.npmjs.org/@types/aria-query/-/aria-query-5.0.4.tgz. Extracting by manifest.
+152 silly tarball no local data for web-vitals@https://registry.npmjs.org/web-vitals/-/web-vitals-2.1.4.tgz. Extracting by manifest.
+153 silly tarball no local data for @testing-library/user-event@https://registry.npmjs.org/@testing-library/user-event/-/user-event-13.5.0.tgz. Extracting by manifest.
+154 silly tarball no local data for @testing-library/react@https://registry.npmjs.org/@testing-library/react/-/react-16.3.2.tgz. Extracting by manifest.
+155 silly tarball no local data for @testing-library/jest-dom@https://registry.npmjs.org/@testing-library/jest-dom/-/jest-dom-6.9.1.tgz. Extracting by manifest.
+156 silly tarball no local data for @testing-library/dom@https://registry.npmjs.org/@testing-library/dom/-/dom-10.4.1.tgz. Extracting by manifest.
+157 silly tarball no local data for typescript@https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz. Extracting by manifest.
+158 silly tarball no local data for dom-accessibility-api@https://registry.npmjs.org/dom-accessibility-api/-/dom-accessibility-api-0.6.3.tgz. Extracting by manifest.
+159 silly tarball no local data for aria-query@https://registry.npmjs.org/aria-query/-/aria-query-5.3.0.tgz. Extracting by manifest.
+160 http fetch GET 200 https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz 283ms (cache miss)
+161 http fetch GET 200 https://registry.npmjs.org/indent-string/-/indent-string-4.0.0.tgz 332ms (cache miss)
+162 http fetch GET 200 https://registry.npmjs.org/css.escape/-/css.escape-1.5.1.tgz 334ms (cache miss)
+163 http fetch GET 200 https://registry.npmjs.org/strip-indent/-/strip-indent-3.0.0.tgz 335ms (cache miss)
+164 http fetch GET 200 https://registry.npmjs.org/redent/-/redent-3.0.0.tgz 335ms (cache miss)
+165 http fetch GET 200 https://registry.npmjs.org/@types/aria-query/-/aria-query-5.0.4.tgz 341ms (cache miss)
+166 http fetch GET 200 https://registry.npmjs.org/dequal/-/dequal-2.0.3.tgz 360ms (cache miss)
+167 http fetch GET 200 https://registry.npmjs.org/@adobe/css-tools/-/css-tools-4.4.4.tgz 497ms (cache miss)
+168 http fetch GET 200 https://registry.npmjs.org/lz-string/-/lz-string-1.5.0.tgz 504ms (cache miss)
+169 http fetch GET 200 https://registry.npmjs.org/@testing-library/jest-dom/-/jest-dom-6.9.1.tgz 642ms (cache miss)
+170 http fetch GET 200 https://registry.npmjs.org/@testing-library/react/-/react-16.3.2.tgz 727ms (cache miss)
+171 http fetch GET 200 https://registry.npmjs.org/dom-accessibility-api/-/dom-accessibility-api-0.5.16.tgz 825ms (cache miss)
+172 http fetch GET 200 https://registry.npmjs.org/dom-accessibility-api/-/dom-accessibility-api-0.6.3.tgz 802ms (cache miss)
+173 http fetch GET 200 https://registry.npmjs.org/web-vitals/-/web-vitals-2.1.4.tgz 861ms (cache miss)
+174 http fetch GET 200 https://registry.npmjs.org/@testing-library/dom/-/dom-10.4.1.tgz 952ms (cache miss)
+175 http fetch GET 200 https://registry.npmjs.org/@testing-library/user-event/-/user-event-13.5.0.tgz 1053ms (cache miss)
+176 http fetch GET 200 https://registry.npmjs.org/aria-query/-/aria-query-5.3.0.tgz 1171ms (cache miss)
+177 http fetch GET 200 https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz 1987ms (cache miss)
+178 silly ADD node_modules/dequal
+179 silly ADD node_modules/min-indent
+180 silly ADD node_modules/strip-indent
+181 silly ADD node_modules/indent-string
+182 silly ADD node_modules/redent
+183 silly ADD node_modules/css.escape
+184 silly ADD node_modules/@adobe/css-tools
+185 silly ADD node_modules/lz-string
+186 silly ADD node_modules/dom-accessibility-api
+187 silly ADD node_modules/@types/aria-query
+188 silly ADD node_modules/web-vitals
+189 silly ADD node_modules/@testing-library/user-event
+190 silly ADD node_modules/@testing-library/react
+191 silly ADD node_modules/@testing-library/jest-dom
+192 silly ADD node_modules/@testing-library/jest-dom/node_modules/dom-accessibility-api
+193 silly ADD node_modules/@testing-library/dom
+194 silly ADD node_modules/@testing-library/dom/node_modules/aria-query
+195 silly CHANGE node_modules/typescript
+196 silly REMOVE node_modules/tailwindcss/node_modules/yaml
+197 verbose cwd /home/ogyy/smart-olt
+198 verbose os Linux 6.8.0-90-generic
+199 verbose node v25.6.1
+200 verbose npm  v11.9.0
+201 verbose exit 0
+202 info ok

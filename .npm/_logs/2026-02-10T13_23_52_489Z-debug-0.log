@@ -1,0 +1,13 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.20.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ogyy/smartolt-ui/.npmrc
+5 silly config load:file:/home/ogyy/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm run dev --host 0.0.0.0 --port 5173
+8 verbose argv "run" "dev" "--" "--host" "0.0.0.0" "--port" "5173"
+9 verbose logfile logs-max:10 dir:/home/ogyy/.npm/_logs/2026-02-10T13_23_52_489Z-
+10 verbose logfile /home/ogyy/.npm/_logs/2026-02-10T13_23_52_489Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files

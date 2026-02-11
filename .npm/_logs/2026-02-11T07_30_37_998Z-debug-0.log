@@ -1,0 +1,19 @@
+0 verbose cli /home/ogyy/.nvm/versions/node/v25.6.1/bin/node /home/ogyy/.nvm/versions/node/v25.6.1/bin/npm
+1 info using npm@11.9.0
+2 info using node@v25.6.1
+3 silly config load:file:/home/ogyy/.nvm/versions/node/v25.6.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ogyy/smart-olt/.npmrc
+5 silly config load:file:/home/ogyy/.npmrc
+6 silly config load:file:/home/ogyy/.nvm/versions/node/v25.6.1/etc/npmrc
+7 verbose title npm config list
+8 verbose argv "config" "list"
+9 verbose logfile logs-max:10 dir:/home/ogyy/.npm/_logs/2026-02-11T07_30_37_998Z-
+10 verbose logfile /home/ogyy/.npm/_logs/2026-02-11T07_30_37_998Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd /home/ogyy/smart-olt
+14 verbose os Linux 6.8.0-90-generic
+15 verbose node v25.6.1
+16 verbose npm  v11.9.0
+17 verbose exit 0
+18 info ok
