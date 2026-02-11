@@ -323,3 +323,143 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 cd ~/smartolt-backend
 source venv/bin/activate
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+cd ~/smartolt-backend
+ls
+cd ~/smartolt-ui
+ls
+cd ~/
+ping 172.16.100.254
+cd ~/smartolt-backend
+
+nano src/SmartOltPrototypeApp.tsx
+cd ~/smartolt-ui
+nano src/SmartOltPrototypeApp.tsx
+ls
+cd ~/smartolt-backend
+ls
+nano main.py
+cat main.py
+sudo apt update
+sudo apt upgrade
+cd ~/
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+source ~/.bashrc
+nvm install node
+node -v
+npm -v
+sudo apt update
+sudo apt install libatomic1
+node -v
+npm -v
+npx create-react-app smart-olt
+git --version
+git init
+git add .
+git commit -m "Initialize project"
+git config --global user.name "Nama Anda"
+git config --global user.name "djuanda"
+git config --global user.email "nogianakbaik@gmail.com"
+git config --global --list
+git add .
+git commit -m "Initialize project"
+git rm --cached .nvm
+git commit -m "Remove .nvm from staging"
+git push -u origin master
+git remote add origin https://github.com/username/smart-olt.git
+git push -u origin master
+git remote add origin https://github.com/djuanda/smart-olt.git
+git remote -v
+git remote remove origin
+git remote add origin https://github.com/djuanda/smart-olt.git
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/djuanda/smart-olt.git
+git push -u origin master
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "nogianakbaik@gmail.com"
+cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/my_ssh-key.pub
+cat ~/.ssh/id_rsa.pub
+nano ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+git status
+git rev-parse --show-toplevel
+ls
+ls -a
+cd smart-olt
+ls
+git status
+git add .
+git commit -m "Pesan commit"
+touch .gitignore
+nano .gitignore
+git add .gitignore
+git commit -m "Menambahkan .gitignore untuk mengabaikan file yang tidak perlu"
+cat .gitignore
+nano .gitignore
+git status
+git commit -m "Update .gitignore untuk mengabaikan .nvm dan .ssh"
+git add .gitignore
+git commit -m "Update .gitignore untuk mengabaikan .nvm dan .ssh"
+git status
+ls
+git rm -r --cached .nvm
+cd ~/.gitignore
+cd ~/src/.gitignore
+cd ~/src
+cd /
+cd ~/src
+cd /src
+ls -a
+cd ~/smart-olt
+ls -a
+git rm -r --cached .nvm
+ls /.gitignore
+cat .gitignore
+git status
+git rm --cached -r .nvm
+git rm --cached -r .ssh
+cat .gitignore
+nano .gitignore
+git rm -r --cached .nvm
+git rm -r --cached .ssh
+git status
+$ git commit -m
+$ git commit
+git commit
+git commit -a
+git add .gitignore
+git rm -r --cached .nvm .ssh
+git commit -m "Update .gitignore untuk mengabaikan folder .nvm dan .ssh"
+git push origin master
+git remote -v
+git remote set-url origin https://github.com/djuandaaa/repository.git
+git push origin master
+git remote -v
+git push origin master
+https://github.com/djuandaaa/repository.git
+https://github.com/djuandaaa/smart-olt
+git remote set-url origin https://github.com/djuandaaa/smart-olt.git
+git push origin master
+git remote set-url origin https://github.com/djuandaaa/smart-olt.git
+git remote -v
+git remote set-url origin git@github.com:djuandaaa/smart-olt.git
+git push origin master
+git rm -r --cached .nvm
+git rm -r --cached .ssh
+git commit -m "Remove .nvm and .ssh from the repository"
+git add
+git add .
+git commit -m "Descriptive commit message"
+git push origin master
+ls -a
+git status
+git rm -r --cached .ssh
+.gitignore
+nano .gitignore
+git status
+git rm -r --cached .nvm
